@@ -7,3 +7,4 @@ black
 blue
 fix
 i am flower
+新入
